@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverrideIcon
+
+# Thumbnails
+._*
+
+# Editores
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Terraform</title>
+  <style>
+    body { margin: 0; }
+    .remark-slide-scaler { box-shadow: none; }
+  </style>
+</head>
+<body>
+  <textarea id="source" style="display:none">
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+  <script>
+    fetch('index.md')
+      .then(r => r.text())
+      .then(md => {
+        document.getElementById('source').textContent = md;
+        remark.create({ source: md, ratio: '16:9' });
+      });
+  </script>
+</body>
+</html>
