@@ -7,7 +7,7 @@
 }
 
 .remark-slide-content::after {
-  content: "Jorge Lopez";
+  content: "jorloque";
   position: fixed;
   bottom: 10px;
   left: 20px;
@@ -60,7 +60,7 @@ ine-height: 1.5
 }
 </style>
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 
@@ -162,7 +162,7 @@ Terraform detectará estas variables automáticamente si usas el proveedor Azure
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -354,7 +354,7 @@ Cada carpeta contiene una configuración idéntica pero con valores distintos, p
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -561,7 +561,7 @@ Estas prácticas ayudan a mantener proyectos legibles, predecibles y colaborativ
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -798,7 +798,7 @@ Ejemplo:
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -1017,7 +1017,7 @@ El output puede ser usado por otros módulos o herramientas externas para refere
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -1242,7 +1242,7 @@ El `data` obtiene la AMI más reciente y el `resource` la utiliza para crear una
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -1381,7 +1381,7 @@ Permite explorar los recursos, dependencias y relaciones desde un navegador web.
 ---
 
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -1552,7 +1552,7 @@ El archivo `terraform.tfstate` puede contener **valores sensibles** como contras
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -1682,7 +1682,7 @@ Se crea un storage account distinto por entorno (`dev`, `staging`, `prod`), grac
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
@@ -2050,7 +2050,7 @@ La composición permite mantener configuraciones limpias y potentes.
 
 ---
 
-<img src="img/terraform_logo.svg" class="logo" />
+
 
 # Terraform
 <div class="indice">
