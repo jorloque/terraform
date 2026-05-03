@@ -1,11 +1,7 @@
 <!-- Estilos globales sin generar slide inicial -->
 <style>
 .remark-slide-content {
-  background-image: url("img/header.png");
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: contain;
-  padding-top: 60px;
+  padding-top: 20px;
   font-size: 16px; 
   line-height: 1.5;
 }
